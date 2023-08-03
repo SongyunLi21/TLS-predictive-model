@@ -9,6 +9,7 @@ library(png)
 library(SeuratData)
 library(patchwork)
 ####Data Preprocessing####
+#use the data from GEO
 #RI model
 slide_list <- c("c_2.h5",
                 "c_3.h5",
